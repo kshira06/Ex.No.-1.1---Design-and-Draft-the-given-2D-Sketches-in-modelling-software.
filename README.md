@@ -43,7 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-![Uploading 1.1 jpg.jpg…]()
+![1 1 jpg](https://github.com/user-attachments/assets/40787fdb-530a-43c8-9725-958340fb984d)
+
 
 
 ## RESULT
